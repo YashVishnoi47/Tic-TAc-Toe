@@ -1,1 +1,1 @@
-My First Javscript Prijects
+My First Javscript project.
